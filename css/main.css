@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+// Text Formatting
+
+h1 { margin: 15px 0px 12px 0px; font-weight: normal; font-family: 'Russo One', sans-serif; font-size: 48px; color: #336699; line-height: 50px; }
+h2 { margin: 0px 0px .5em 0px; font-family: Helvetica; font-size: 24px; color: #666666; }
+h3 { font-size: 1.2em; margin: 0px 0px 0px 0px; color: #155102; }
+p,ul { margin: 0px 0px 1.5em 0px; line-height: 22px; color: #3d2701; }
+a { color: #900; }
+.clear { clear: both; line-height: 1px; }
+
+
+
+// Container Formatting
+
+.body{
+	background-color:#FFFFFF;
+	animation-delay:0.5;
+	animation:ease-in;
+	animation-duration:2.0;
+	visibility:visible;
+}
+
+
